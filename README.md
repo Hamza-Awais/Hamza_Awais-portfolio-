@@ -22,7 +22,8 @@ I write the code myself.
 ## What's inside
 - cpp/ : C++ projects and assignments
 - sql/ : database projects and queries
-- assembly/ : Assembly language labs
+- asm/ : Assembly language projects
+- statistics-and-probability-project/ : Statistics and Probability project
 
 ## Contact
 - Email: hellohamza012@gmail.com
