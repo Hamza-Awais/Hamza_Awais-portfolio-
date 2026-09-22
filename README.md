@@ -25,6 +25,30 @@ I write the code myself.
 - asm/ : Assembly language projects
 - statistics-and-probability-project/ : Statistics and Probability project
 
+## Projects
+**Introduction to Computing**
+- Inventory Management System (`cpp/itc-inventory-management-system`)
+- Payroll Management System (`cpp/itc-payroll-management-system`)
+
+**Programming Fundamentals**
+- Airline Reservation System (`cpp/pf-airline-reservation-system`)
+- Word Scramble and Search Game (`cpp/pf-word-scramble-and-search-game`)
+
+**Object-Oriented Programming**
+- CV Job Prediction System (`cpp/oop-cv-job-prediction-system`)
+- Student Performance Evaluation System (`cpp/oop-student-performance-evaluation-system`)
+
+**Data Structures**
+- Friend Recommendation System (`cpp/ds-friend-recommendation-system`)
+- Smart Restaurant Management System (`cpp/ds-smart-restaurant-management-system`)
+
+**Computer Organization and Assembly Language**
+- Snake Game (`asm/assembly-snake-game`)
+- Calculator (`asm/assembly-calculator`)
+
+**Statistics and Probability**
+- Statistics and Probability Project (`statistics-and-probability-project`)
+
 ## Contact
 - Email: hellohamza012@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hamza-awais-215472332/
