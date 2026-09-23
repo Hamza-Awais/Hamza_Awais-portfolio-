@@ -24,6 +24,7 @@ I write the code myself.
 - sql/ : database projects and queries
 - asm/ : Assembly language projects
 - statistics-and-probability-project/ : Statistics and Probability project
+- Software Engineering projects
 
 ## Projects
 **Introduction to Computing**
@@ -48,6 +49,10 @@ I write the code myself.
 
 **Statistics and Probability**
 - Statistics and Probability Project (`statistics-and-probability-project`)
+  
+**Software Engineering**
+- Smart Cafeteria Management System (`se/se-smart-cafeteria-management-system`)
+  
 
 ## Contact
 - Email: hellohamza012@gmail.com
