@@ -27,31 +27,43 @@ I write the code myself.
 - Software Engineering projects
 
 ## Projects
-**Introduction to Computing**
+
+#### Introduction to Computing
+
 - Inventory Management System (`cpp/itc-inventory-management-system`)
 - Payroll Management System (`cpp/itc-payroll-management-system`)
 
-**Programming Fundamentals**
+#### Programming Fundamentals
+
 - Airline Reservation System (`cpp/pf-airline-reservation-system`)
 - Word Scramble and Search Game (`cpp/pf-word-scramble-and-search-game`)
 
-**Object-Oriented Programming**
+#### Object-Oriented Programming
+
 - CV Job Prediction System (`cpp/oop-cv-job-prediction-system`)
 - Student Performance Evaluation System (`cpp/oop-student-performance-evaluation-system`)
 
-**Data Structures**
+#### Data Structures
+
 - Friend Recommendation System (`cpp/ds-friend-recommendation-system`)
 - Smart Restaurant Management System (`cpp/ds-smart-restaurant-management-system`)
 
-**Computer Organization and Assembly Language**
+#### Database Management Systems
+
+- Gym Management System (`sql/dbms-gym-management-system`)
+
+#### Computer Organization and Assembly Language
+
 - Snake Game (`asm/assembly-snake-game`)
 - Calculator (`asm/assembly-calculator`)
 
-**Statistics and Probability**
+#### Statistics and Probability
+
 - Statistics and Probability Project (`statistics-and-probability-project`)
-  
-**Software Engineering**
-- Smart Cafeteria Management System (`se/se-smart-cafeteria-management-system`)
+
+#### Software Engineering
+
+- Smart Cafeteria Management System (`Smart-Cafeteria-Management-System`)
   
 
 ## Contact
